@@ -33,3 +33,6 @@ This project is a smart attendance system that uses QR codes to automate attenda
 
 ## Author
 Gayitri
+## Screenshots
+
+![Repository Screenshot](screenshots/repository.png)
