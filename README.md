@@ -36,3 +36,4 @@ Gayitri
 ## Screenshots
 
 ![Repository Screenshot](screenshots/repository.png)
+![Repository Screenshot](screenshots/wrongimage.png)
